@@ -35,7 +35,8 @@ Mobile:
 
 ### Built with
 
-- 
+- Express.js
+- MongoDB
 
 
 ### Continued development
