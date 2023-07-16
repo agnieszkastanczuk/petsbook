@@ -41,6 +41,8 @@ Mobile:
 - Nodemon
 - JsonWebToken
 - Multer
+- Material UI
+- Google Fonts
 
 ### Continued development
 
