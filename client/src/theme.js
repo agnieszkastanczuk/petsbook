@@ -31,6 +31,9 @@ export const colorTokens = {
 
 // mui theme settings
 export const themeSettings = (mode) => {
+    const logoColor = colorTokens.primary[600];
+    const logoColorHover = colorTokens.primary[300];
+
     return {
         palette: {
             mode: mode,
@@ -53,6 +56,10 @@ export const themeSettings = (mode) => {
                         default: colorTokens.grey[900],
                         alt: colorTokens.grey[800],
                     },
+                    logo: {
+                        default: logoColor,
+                        hover: logoColorHover,
+                    },
                 }
                 : {
                     // palette values for light mode
@@ -71,6 +78,10 @@ export const themeSettings = (mode) => {
                     background: {
                         default: colorTokens.grey[10],
                         alt: colorTokens.grey[0],
+                    },
+                    logo: {
+                        default: logoColor,
+                        hover: logoColorHover,
                     },
                 }),
         },
