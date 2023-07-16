@@ -37,7 +37,10 @@ Mobile:
 
 - Express.js
 - MongoDB
-
+- Mongoose
+- Nodemon
+- JsonWebToken
+- Multer
 
 ### Continued development
 
