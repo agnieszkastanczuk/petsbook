@@ -43,6 +43,9 @@ Mobile:
 - Multer
 - Material UI
 - Google Fonts
+- React Redux
+- React Router
+- React Dropzone
 
 ### Continued development
 
