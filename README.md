@@ -30,11 +30,11 @@ Users should be able to:
 
 Desktop:
 <br>
-![](./public/screenshot/....png)
+![](./public/screenshot/petsbook-desktop.png)
 
 Mobile:
 <br>
-![](./public/screenshot/....png)
+![](./public/screenshot/petsbook-mobile.png)
 
 ## My process
 
@@ -52,7 +52,8 @@ Mobile:
 - React Router
 - React Dropzone
 
+and [EdRoh's Tutorial](https://www.youtube.com/watch?v=K8YELRmUb5o&t=15981s).
+
 ### Continued development
 
-- ....
-
+- Deploying

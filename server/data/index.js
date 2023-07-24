@@ -101,7 +101,7 @@ export const posts = [
         firstName: "Dog",
         lastName: "Alex",
         location: "Warsaw, Poland",
-        description: "Some really long random description",
+        description: "Lost in the enchanting forest, where trees whisper mysterious tales, and leaves rustle rhythmically in the breeze. My paws lead me deep into this charming realm of nature Lost in the enchanting forest, where trees whisper mysterious tales, and leaves rustle rhythmically in the breeze. My paws lead me deep into this charming realm of nature",
         picturePath: "post1.jpeg",
         userPicturePath: "p2.jpeg",
         likes: new Map([
@@ -111,9 +111,9 @@ export const posts = [
             [userIds[4], true],
         ]),
         comments: [
-            "random comment",
-            "another random comment",
-            "yet another random comment",
+            "Oh, how beautiful! It looks like the perfect place for a moment of respite from our everyday duties! ",
+            "So cool",
+            "This place seems so tranquil and relaxing!",
         ],
     },
     {
@@ -121,22 +121,22 @@ export const posts = [
         userId: userIds[3],
         firstName: "Fish",
         lastName: "Mary",
-        location: "Cracow, Poland",
+        location: "Gdansk, Poland",
         description:
-            "Another really long random description. This one is longer than the previous one.",
+            "Anyone up for a swim? A watery paradise for all aquatic souls! #UnderwaterLife #MarineWonderland",
         picturePath: "post2.jpeg",
-        userPicturePath: "p6.jpeg",
+        userPicturePath: "p4.jpeg",
         likes: new Map([
-            [userIds[7], true],
+            [userIds[3], true],
             [userIds[4], true],
             [userIds[1], true],
-            [userIds[2], true],
+            [userIds[0], true],
         ]),
         comments: [
-            "one more random comment",
-            "and another random comment",
-            "no more random comments",
-            "I lied, one more random comment",
+            "Wonderful shot! ",
+            "Wooow",
+            "It must be fascinating to see the underwater world up close! ",
+            "Mniam",
         ],
     },
     {
@@ -146,21 +146,17 @@ export const posts = [
         lastName: "Joe",
         location: "Cracow, Poland",
         description:
-            "This is the last really long random description. This one is longer than the previous one.",
+            "A flowery wonderland, where the meadow is filled with colorful blooms, and the sun gently shines on the horizon. I'm glad to share this view with all of you! #FlowerMeadow #SpringEnchantment #LazyDay",
         picturePath: "post3.jpeg",
         userPicturePath: "p5.jpeg",
         likes: new Map([
             [userIds[1], true],
-            [userIds[6], true],
-            [userIds[3], true],
+
             [userIds[5], true],
         ]),
         comments: [
-            "one more random comment",
-            "I lied, one more random comment",
-            "I lied again, one more random comment",
-            "Why am I doing this?",
-            "I'm bored",
+            "The flowers are as beautiful as you! ",
+            "Wow! It must be the perfect spot for an afternoon nap in the warm sunlight!",
         ],
     },
 ];
