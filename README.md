@@ -30,11 +30,11 @@ Users should be able to:
 
 Desktop:
 <br>
-![](./public/screenshot/petsbook-desktop.png)
+![](./screenshot/petsbook-desktop.png)
 
 Mobile:
 <br>
-![](./public/screenshot/petsbook-mobile.png)
+![](./screenshot/petsbook-mobile.png)
 
 ## My process
 
